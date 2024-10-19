@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(247, 138, 138);
+    font-size: 5rem;
+    height: 100px;
+    width: 100px;
+}
+span{
+    background-color: rgb(138, 140, 247);
+    font-size: 5rem;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
