@@ -1,0 +1,15 @@
+#container{
+    border: 2px solid;
+}
+
+/* div p{
+    background-color: blue;
+} */
+
+div ~ p {
+    background-color: yellow;
+}
+
+div+p{
+    background-color: aqua;
+}
